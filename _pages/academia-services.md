@@ -1,11 +1,8 @@
 ---
-permalink: /
+permalink: /academia-services
 title: "Academia Services"
 excerpt: "Academia Services"
 author_profile: true
-redirect_from: 
-  - /academia-services/
-  - /academia-services.html
 ---
 1. (External) Journal Reviewer: Journals: TKDE, TKDD.
 2. Conferences: SIGMOD, VLDB, ICDE, KDD, WSDM, CIKM, DASFAA, etc.
