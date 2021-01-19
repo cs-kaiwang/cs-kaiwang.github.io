@@ -83,11 +83,11 @@ author:
   name             : "Kai Wang"
   avatar           : "profile.png"
   bio              : "Doctor"
-  location         : "UNSW"
+  location         : "School of Computer Science and Engineering, The University of New South Wales"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=G4DiwTIAAAAJ&hl=zh-CN"
-  email            :
+  email            : "kwang@cse.unsw.edu.au"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
