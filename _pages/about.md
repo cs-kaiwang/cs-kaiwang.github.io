@@ -14,25 +14,23 @@ His research interests lie in big data analytics, especially for the graph/netwo
 
 Publications
 ======
-1. Kai Wang, Xuemin Lin, Lu Qin, Wenjie Zhang, and Ying Zhang. 2019. Vertex priority based butterfly counting for large-scale bipartite networks. Proc. VLDB Endow. 12, 10 (June 2019), 1139–1152. DOI:https://doi.org/10.14778/3339490.3339497
+1. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, Ying Zhang. **Efficient and Effective Community Search on Large-scale Bipartite Graphs**, IEEE International Conference on Data Engineering (ICDE), to appear, 2021.
 
-2. L. Chen, Y. Gao, K. Wang, C. S. Jensen and G. Chen, "Answering why-not questions on metric probabilistic range queries," 2016 IEEE 32nd International Conference on Data Engineering (ICDE), Helsinki, 2016, pp. 767-778, doi: 10.1109/ICDE.2016.7498288.
+2. Maryam Ghafouri, **Kai Wang\***, Fan Zhang, Ying Zhang and Xuemin Lin. **Efficient Graph Hierarchical Decomposition With User Engagement And Tie Strength**, International Conference on Database Systems for Advanced Applications (DASFAA), pages 448-465, 2020.
 
-3. Tang, B., Yiu, M. L., Mouratidis, K., & Wang, K. (2017). Efficient motif discovery in spatial trajectories using discrete fréchet distance. EDBT.
+3. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, Ying Zhang. **Efficient Bitruss Decomposition for Large-scale Bipartite Graphs**, IEEE International Conference on Data Engineering (ICDE), pages 661-672, 2020.
 
-4. K. Wang, X. Lin, L. Qin, W. Zhang and Y. Zhang, "Efficient Bitruss Decomposition for Large-scale Bipartite Graphs," 2020 IEEE 36th International Conference on Data Engineering (ICDE), Dallas, TX, USA, 2020, pp. 661-672, doi: 10.1109/ICDE48307.2020.00063.
+4. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, Ying Zhang. **Vertex Priority Based Butterfly Counting for Large-scale Bipartite Networks**, Proceedings of the International Conference on Very Large Data Bases (VLDB), pages 1139-1152, 2019.
 
-5. Wang, K., Zhang, W., Lin, X., Zhang, Y., Qin, L., & Zhang, Y. (2020). Efficient and Effective Community Search on Large-scale Bipartite Graphs. arXiv preprint arXiv:2011.08399.
+5. **Kai Wang**, Xin Cao, Xuemin Lin, Wenjie Zhang, Lu Qin. **Efficient Computing of Radius-bounded k-cores**, IEEE International Conference on Data Engineering (ICDE), pages 233-244, 2018.
 
-6. Ghafouri, M., Wang, K., Zhang, F., Zhang, Y., & Lin, X. (2020, September). Efficient Graph Hierarchical Decomposition with User Engagement and Tie Strength. In International Conference on Database Systems for Advanced Applications (pp. 448-465). Springer, Cham.
+6. Bo Tang, Man Lung Yiu, Kyriakos Mouratidis, **Kai Wang**. **Efficient Motif Discovery in Spatial Trajectories using Discrete Fréchet Distance**, International Conference on Extending Database Technology (EDBT), pages 378-389, 2017.
 
-7. Wang, K., Cao, X., Lin, X., Zhang, W., & Qin, L. (2018, April). Efficient computing of radius-bounded k-cores. In 2018 IEEE 34th International Conference on Data Engineering (ICDE) (pp. 233-244). IEEE.
-
-8. Wang, K., Cao, X., Lin, X., Zhang, W., & Qin, L. (2018, April). Efficient computing of radius-bounded k-cores. In 2018 IEEE 34th International Conference on Data Engineering (ICDE) (pp. 233-244). IEEE.
+7. Lu Chen, Yunjun Gao, **Kai Wang**, Christian S Jensen, Gang Chen. **Answering Why-not Questions on Metric Probabilistic Range Queries**, IEEE International Conference on Data Engineering (ICDE), pages 767-778, 2016 .
 
 Talks
 ======
-1. International Conference on Database Systems for Advanced Applications (DASFAA), 2020
+1. Cohesive Structure based Bipartite Graph Analysis: From Motif Level to Subgraph Level. International Conference on Database Systems for Advanced Applications (DASFAA), 2020 at Jeju Island.
 
 Academia Services
 ======
