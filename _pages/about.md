@@ -12,7 +12,7 @@ Kai Wang is currently a Postdoc Researcher in the Data and Knowledge Research Gr
 
 His research interests lie in big data analytics, especially for the graph/network and spatial data.  Link to [Google Scholar](https://scholar.google.com/citations?user=G4DiwTIAAAAJ&hl=en).
 
-Publications
+Publications (* indicates corresponding author)
 ======
 1. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, Ying Zhang. **Efficient and Effective Community Search on Large-scale Bipartite Graphs**, IEEE International Conference on Data Engineering (ICDE), to appear, 2021.
 
@@ -42,9 +42,8 @@ Academia Services
 
 3. Organizing Committee: Publicity Chair of [LSGDA 2020](https://www.google.com/url?q=https%3A%2F%2Flsgda.github.io%2F2020%2F&sa=D&sntz=1&usg=AFQjCNFYfkgg9wBrWW8wUaG8GCGXJz3z_A)
 
-Teaching
+Teaching (* indicates course coordinator)
 ======
-ps: * indicates course coordinator
 
 1. Teaching Big Data Management  (COMP9313) -  2017 S2, 2018 S2
 
