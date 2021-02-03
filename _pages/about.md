@@ -42,7 +42,7 @@ Academia Services
 
 3. Organizing Committee: Publicity Chair of [LSGDA 2020](https://www.google.com/url?q=https%3A%2F%2Flsgda.github.io%2F2020%2F&sa=D&sntz=1&usg=AFQjCNFYfkgg9wBrWW8wUaG8GCGXJz3z_A)
 
-Teaching (* indicates course coordinator)
+Teaching (TA, * indicates course coordinator)
 ======
 
 1. Big Data Management  (COMP9313) -  2017 S2, 2018 S2
