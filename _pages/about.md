@@ -36,7 +36,7 @@ Talks
 
 Academia Services
 ======
-1. (External) Journal Reviewer: TKDE, TKDD.
+1. (External) Journal Reviewer: TKDE, TKDD, WWWJ.
 
 2. (External) Conference Reviewer: SIGMOD, VLDB, ICDE, KDD, WSDM, CIKM, DASFAA, etc.
 
