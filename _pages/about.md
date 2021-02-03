@@ -44,10 +44,11 @@ Academia Services
 
 Teaching (TA, * indicates course coordinator)
 ======
+1. Graph Analytics  (COMP9312) -  2021 T2*.
 
-1. Big Data Management  (COMP9313) -  2017 S2, 2018 S2
+2. Big Data Management  (COMP9313) -  2017 S2, 2018 S2.
 
-2. Database Systems (COMP9311) -  2017 S1, 2018 S1*, 2019 T1*, 2019 T3*.
+3. Database Systems (COMP9311) -  2017 S1, 2018 S1*, 2019 T1*, 2019 T3*.
 
-3. Data Science and Decisions (DATA1001) -  2017 S2, 2018 S2*, 2019 T2*
+4. Data Science and Decisions (DATA1001) -  2017 S2, 2018 S2*, 2019 T2*.
 
