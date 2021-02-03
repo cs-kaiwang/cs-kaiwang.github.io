@@ -45,9 +45,9 @@ Academia Services
 Teaching (* indicates course coordinator)
 ======
 
-1. Teaching Big Data Management  (COMP9313) -  2017 S2, 2018 S2
+1. Big Data Management  (COMP9313) -  2017 S2, 2018 S2
 
-2. Teaching database management (COMP9311) -  2017 S1, 2018 S1*, 2019 T1*, 2019 T3*.
+2. Database Systems (COMP9311) -  2017 S1, 2018 S1*, 2019 T1*, 2019 T3*.
 
-3. Teaching Data Science and Decisions -  2017 S2, 2018 S2*, 2019 T2*
+3. Data Science and Decisions -  2017 S2, 2018 S2*, 2019 T2*
 
