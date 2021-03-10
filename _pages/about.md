@@ -14,21 +14,23 @@ His research interests lie in big data analytics, especially for the graph/netwo
 
 Publications (* indicates corresponding author)
 ======
-1. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, Ying Zhang. **Efficient and Effective Community Search on Large-scale Bipartite Graphs**, IEEE International Conference on Data Engineering (ICDE), to appear, 2021.
+1. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, Ying Zhang, **Towards Efficient Solutions of Bitruss Decomposition for Large-scale Bipartite Graphs**, VLDBJ, 2021.
 
-2. **Kai Wang**, Shuting Wang, Xin Cao, Lu Qin. **Efficient Radius-bounded Community Search in Geo-social Networks**, IEEE Transactions on Knowledge and Data Engineering.
+2. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, Ying Zhang. **Efficient and Effective Community Search on Large-scale Bipartite Graphs**, IEEE International Conference on Data Engineering (ICDE), to appear, 2021.
 
-3. Maryam Ghafouri, **Kai Wang\***, Fan Zhang, Ying Zhang and Xuemin Lin. **Efficient Graph Hierarchical Decomposition With User Engagement And Tie Strength**, International Conference on Database Systems for Advanced Applications (DASFAA), pages 448-465, 2020.
+3. **Kai Wang**, Shuting Wang, Xin Cao, Lu Qin. **Efficient Radius-bounded Community Search in Geo-social Networks**, IEEE Transactions on Knowledge and Data Engineering (TKDE),  2020.
 
-4. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, Ying Zhang. **Efficient Bitruss Decomposition for Large-scale Bipartite Graphs**, IEEE International Conference on Data Engineering (ICDE), pages 661-672, 2020.
+4. Maryam Ghafouri, **Kai Wang\***, Fan Zhang, Ying Zhang and Xuemin Lin. **Efficient Graph Hierarchical Decomposition With User Engagement And Tie Strength**, International Conference on Database Systems for Advanced Applications (DASFAA), pages 448-465, 2020.
 
-5. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, Ying Zhang. **Vertex Priority Based Butterfly Counting for Large-scale Bipartite Networks**, Proceedings of the International Conference on Very Large Data Bases (VLDB), pages 1139-1152, 2019.
+5. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, Ying Zhang. **Efficient Bitruss Decomposition for Large-scale Bipartite Graphs**, IEEE International Conference on Data Engineering (ICDE), pages 661-672, 2020.
 
-6. **Kai Wang**, Xin Cao, Xuemin Lin, Wenjie Zhang, Lu Qin. **Efficient Computing of Radius-bounded k-cores**, IEEE International Conference on Data Engineering (ICDE), pages 233-244, 2018.
+6. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, Ying Zhang. **Vertex Priority Based Butterfly Counting for Large-scale Bipartite Networks**, Proceedings of the International Conference on Very Large Data Bases (VLDB), pages 1139-1152, 2019.
 
-7. Bo Tang, Man Lung Yiu, Kyriakos Mouratidis, **Kai Wang**. **Efficient Motif Discovery in Spatial Trajectories using Discrete Fréchet Distance**, International Conference on Extending Database Technology (EDBT), pages 378-389, 2017.
+7. **Kai Wang**, Xin Cao, Xuemin Lin, Wenjie Zhang, Lu Qin. **Efficient Computing of Radius-bounded k-cores**, IEEE International Conference on Data Engineering (ICDE), pages 233-244, 2018.
 
-8. Lu Chen, Yunjun Gao, **Kai Wang**, Christian S Jensen, Gang Chen. **Answering Why-not Questions on Metric Probabilistic Range Queries**, IEEE International Conference on Data Engineering (ICDE), pages 767-778, 2016.
+8. Bo Tang, Man Lung Yiu, Kyriakos Mouratidis, **Kai Wang**. **Efficient Motif Discovery in Spatial Trajectories using Discrete Fréchet Distance**, International Conference on Extending Database Technology (EDBT), pages 378-389, 2017.
+
+9. Lu Chen, Yunjun Gao, **Kai Wang**, Christian S Jensen, Gang Chen. **Answering Why-not Questions on Metric Probabilistic Range Queries**, IEEE International Conference on Data Engineering (ICDE), pages 767-778, 2016.
 
 Talks
 ======
