@@ -44,7 +44,7 @@ Academia Services
 
 3. Organizing Committee: Publicity Chair of [LSGDA 2020](https://www.google.com/url?q=https%3A%2F%2Flsgda.github.io%2F2020%2F&sa=D&sntz=1&usg=AFQjCNFYfkgg9wBrWW8wUaG8GCGXJz3z_A)
 
-Teaching (TA, * indicates course coordinator)
+Teaching (TA, * indicates Head TA)
 ======
 1. Graph Analytics  (COMP9312) -  2021 T2*.
 
