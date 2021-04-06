@@ -46,6 +46,7 @@ Academic Services
 
 - Organizing Committee
   - Publicity Chair of [LSGDA 2020](https://www.google.com/url?q=https%3A%2F%2Flsgda.github.io%2F2020%2F&sa=D&sntz=1&usg=AFQjCNFYfkgg9wBrWW8wUaG8GCGXJz3z_A).
+  - Web Chair of [VLDB 2022](http://vldb.org/2022/).
 
 - Program Committee
   - SpatialDI 2021.
