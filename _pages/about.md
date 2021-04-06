@@ -14,9 +14,9 @@ His research interests lie in big data analytics, especially for the graph/netwo
 
 Publications (* indicates corresponding author)
 ======
-1. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, Ying Zhang, **Towards Efficient Solutions of Bitruss Decomposition for Large-scale Bipartite Graphs**, The VLDB Journal, pages 1-24, 2021.
+### **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, Ying Zhang, **Towards Efficient Solutions of Bitruss Decomposition for Large-scale Bipartite Graphs**, The VLDB Journal, pages 1-24, 2021.
 
-2. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, Ying Zhang. **Efficient and Effective Community Search on Large-scale Bipartite Graphs**, IEEE International Conference on Data Engineering (ICDE), to appear, 2021.
+### **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, Ying Zhang. **Efficient and Effective Community Search on Large-scale Bipartite Graphs**, IEEE International Conference on Data Engineering (ICDE), to appear, 2021.
 
 3. **Kai Wang**, Shuting Wang, Xin Cao, Lu Qin. **Efficient Radius-bounded Community Search in Geo-social Networks**, IEEE Transactions on Knowledge and Data Engineering (TKDE),  2020.
 
