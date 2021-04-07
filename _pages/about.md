@@ -27,7 +27,7 @@ Publications (* indicates corresponding author)
 
 Talks
 ======
-1. **Cohesive Structure based Bipartite Graph Analysis: From Motif Level to Subgraph Level** (Tutorial). International Conference on Database Systems for Advanced Applications (DASFAA), 2020.
+- **Cohesive Structure based Bipartite Graph Analysis: From Motif Level to Subgraph Level** (Tutorial). International Conference on Database Systems for Advanced Applications (DASFAA), 2020.
 
 Academic Services
 ======
