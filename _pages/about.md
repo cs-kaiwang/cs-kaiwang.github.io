@@ -44,7 +44,7 @@ Academic Services
   - TKDE, WWWJ.
 
 - (External) Conference Reviewer
-  - SIGMOD, VLDB, ICDE, KDD, WSDM, CIKM, DASFAA, etc.
+  - SIGMOD, VLDB, ICDE, KDD, WSDM, CIKM, etc.
 
 
 Teaching
