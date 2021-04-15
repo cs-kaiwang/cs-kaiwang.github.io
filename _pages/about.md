@@ -49,7 +49,7 @@ Academic Services
 
 Teaching
 ======
-- Lecturer
+- Course Instructor
   - Graph Analytics  (COMP9312) -  2021 T2.
 
 - TA, * indicates Head TA
