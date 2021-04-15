@@ -31,11 +31,6 @@ Talks
 
 Academic Services
 ======
-- (External) Journal Reviewer
-  - TKDE, TKDD, WWWJ.
-
-- (External) Conference Reviewer
-  - SIGMOD, VLDB, ICDE, KDD, WSDM, CIKM, DASFAA, etc.
 
 - Organizing Committee
   - Web Chair of [VLDB 2022](http://vldb.org/2022/).
@@ -44,6 +39,13 @@ Academic Services
 - Program Committee
   - [CIKM 2021](https://www.cikm2021.org/).
   - SpatialDI 2021.
+
+- Invited Journal Reviewer
+  - TKDE, WWWJ.
+
+- (External) Conference Reviewer
+  - SIGMOD, VLDB, ICDE, KDD, WSDM, CIKM, DASFAA, etc.
+
 
 Teaching
 ======
