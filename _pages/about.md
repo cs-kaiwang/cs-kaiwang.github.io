@@ -29,8 +29,8 @@ Publications (* indicates corresponding author)
 
 Talks
 ======
-- **Cohesive Structure based Bipartite Graph Analysis: From Motif Level to Subgraph Level** (Tutorial). International Conference on Database Systems for Advanced Applications (DASFAA), 2020.
 - Yixiang Fang, **Kai Wang**, Xuemin Lin, Wenjie Zhang, **Cohesive Subgraph Search over Big Heterogeneous Information Networks: Applications, Challenges, and Solutions** (Tutorial), *ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, 2021.
+- **Cohesive Structure based Bipartite Graph Analysis: From Motif Level to Subgraph Level** (Tutorial). International Conference on Database Systems for Advanced Applications (DASFAA), 2020.
 
 Academic Services
 ======
