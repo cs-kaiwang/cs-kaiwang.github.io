@@ -14,7 +14,7 @@ His research interests lie in big data analytics, especially for the graph/netwo
 
 Publications (* indicates corresponding author)
 ======
-1. Yixiang Fang, **Kai Wang**, Xuemin Lin, Wenjie Zhang, **Cohesive Subgraph Search over Big Heterogeneous Information Networks: Applications, Challenges, and Solutions** (Tutorial), *ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, to appear, 2021.
+1. Yixiang Fang, **Kai Wang**, Xuemin Lin, Wenjie Zhang, **Cohesive Subgraph Search over Big Heterogeneous Information Networks: Applications, Challenges, and Solutions** (Tutorial), *ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, 2021.
 2. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, Ying Zhang, **Towards Efficient Solutions of Bitruss Decomposition for Large-scale Bipartite Graphs**, *The VLDB Journal (**VLDBJ**)*, pages 1-24, 2021.
 3. Yizhang He, **Kai Wang\***, Wenjie Zhang, Xuemin Lin, Ying Zhang, **Exploring Cohesive Subgraphs with Vertex Engagement and Tie Strength in Bipartite Graphs**, *Information Sciences*, to apprear, 2021.
 4. Bo Tang, Man Lung Yiu, Kyriakos Mouratidis, Jiahao Zhang; **Kai Wang**, **On Discovering Motifs and Frequent Patterns in Spatial Trajectories with  Discrete Frechet Distance**, *GeoInformatica*, to apprear, 2021.
