@@ -18,7 +18,7 @@ Publications (* indicates corresponding author)
 2. Yixiang Fang, **Kai Wang**, Xuemin Lin, and Wenjie Zhang. **Cohesive Subgraph Search over Big Heterogeneous Information Networks: Applications, Challenges, and Solutions** (Tutorial), *ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, 2021.
 3. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, and Ying Zhang. **Towards Efficient Solutions of Bitruss Decomposition for Large-scale Bipartite Graphs**, *The VLDB Journal (**VLDBJ**)*, pages 1-24, 2021.
 4. Yizhang He, **Kai Wang\***, Wenjie Zhang, Xuemin Lin, and Ying Zhang. **Exploring Cohesive Subgraphs with Vertex Engagement and Tie Strength in Bipartite Graphs**, *Information Sciences*, pages 277-296, 2021.
-5. Fan Zhang, Jiadong Xie, **Kai Wang**, Shiyu Yang, Yu Jiang. **Discovering key users for defending network structural stability**, *World Wide Web*, 2021.
+5. Fan Zhang, Jiadong Xie, **Kai Wang**, Shiyu Yang, Yu Jiang. **Discovering key users for defending network structural stability**, *World Wide Web*, pages 1-23, 2021.
 6. Bo Tang, Man Lung Yiu, Kyriakos Mouratidis, Jiahao Zhang, and **Kai Wang**. **On Discovering Motifs and Frequent Patterns in Spatial Trajectories with  Discrete Frechet Distance**, *GeoInformatica*, to apprear, 2021.
 7. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, and Ying Zhang. **Efficient and Effective Community Search on Large-scale Bipartite Graphs**, *IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2021.
 8. **Kai Wang**, Shuting Wang, Xin Cao, and Lu Qin. **Efficient Radius-bounded Community Search in Geo-social Networks**, *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*,  2020. 
