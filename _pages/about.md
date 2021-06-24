@@ -15,7 +15,7 @@ His research interests lie in big data analytics, especially for the graph/netwo
 Publications (* indicates corresponding author)
 ======
 1. Xiaoshuang Chen, **Kai Wang\***, Xuemin Lin, Wenjie Zhang, Lu Qin, and Ying Zhang. **Efficiently Answering Reachability and Path Queries on Temporal Bipartite Graphs**, *International Conference on Very Large Data Bases (**VLDB**)*, to appear, 2021.
-2. Yixiang Fang, **Kai Wang**, Xuemin Lin, and Wenjie Zhang. **Cohesive Subgraph Search over Big Heterogeneous Information Networks: Applications, Challenges, and Solutions** (Tutorial), *ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, 2021.
+2. Yixiang Fang, **Kai Wang**, Xuemin Lin, and Wenjie Zhang. **Cohesive Subgraph Search over Big Heterogeneous Information Networks: Applications, Challenges, and Solutions** (Tutorial), *ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, pages 2829-2838, 2021.
 3. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, and Ying Zhang. **Towards Efficient Solutions of Bitruss Decomposition for Large-scale Bipartite Graphs**, *The VLDB Journal (**VLDBJ**)*, pages 1-24, 2021.
 4. Yizhang He, **Kai Wang\***, Wenjie Zhang, Xuemin Lin, and Ying Zhang. **Exploring Cohesive Subgraphs with Vertex Engagement and Tie Strength in Bipartite Graphs**, *Information Sciences*, pages 277-296, 2021.
 5. Fan Zhang, Jiadong Xie, **Kai Wang**, Shiyu Yang, Yu Jiang. **Discovering key users for defending network structural stability**, *World Wide Web*, pages 1-23, 2021.
@@ -31,7 +31,7 @@ Publications (* indicates corresponding author)
 
 Talks
 ======
-- Yixiang Fang, **Kai Wang**, Xuemin Lin, and Wenjie Zhang. **Cohesive Subgraph Search over Big Heterogeneous Information Networks: Applications, Challenges, and Solutions** (Tutorial), *ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, 2021.
+- Yixiang Fang, **Kai Wang**, Xuemin Lin, and Wenjie Zhang. **Cohesive Subgraph Search over Big Heterogeneous Information Networks: Applications, Challenges, and Solutions** (Tutorial), *ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, pages 2829-2838, 2021.
 - Wenjie Zhang, **Kai Wang**, Ying Zhang, and Xuemin Lin. **Cohesive Structure based Bipartite Graph Analysis: From Motif Level to Subgraph Level** (Tutorial), *International Conference on Database Systems for Advanced Applications (DASFAA)*, 2020.
 
 Academic Services
