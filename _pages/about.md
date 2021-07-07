@@ -68,7 +68,7 @@ Selected Awards
 ======
 - [VLDB Endowment Grants](http://vldb.org/2021/?info-travel-support) @ VLDB 2021
 - CSE Foundation Fellowship @ UNSW, 2021
-- Dean’s Award for Outstanding PhD Theses @ UNSW, 2021
+- [Dean’s Award for Outstanding PhD Theses](https://research.unsw.edu.au/deans-award-outstanding-phd-theses) @ UNSW, 2021
 - Outstanding Undergraduate Thesis @ ZJU, 2016
 - First Prize of National Undergraduate Training Program @ ZJU, 2015
 - First Prize of National Olympiad in Informatics in Provinces (NOIP), 2011
