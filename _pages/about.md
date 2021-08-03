@@ -14,7 +14,7 @@ His research interests lie in big data analytics, especially for the graph/netwo
 
 Publications (* indicates corresponding author)
 ======
-1. Xiaoshuang Chen, **Kai Wang\***, Xuemin Lin, Wenjie Zhang, Lu Qin, and Ying Zhang. **Efficiently Answering Reachability and Path Queries on Temporal Bipartite Graphs**, *International Conference on Very Large Data Bases (**VLDB**)*, to appear, 2021.
+1. Xiaoshuang Chen, **Kai Wang\***, Xuemin Lin, Wenjie Zhang, Lu Qin, and Ying Zhang. **Efficiently Answering Reachability and Path Queries on Temporal Bipartite Graphs**, *International Conference on Very Large Data Bases (**VLDB**)*, pages 1845 - 1858, 2021.
 2. Yixiang Fang, **Kai Wang**, Xuemin Lin, and Wenjie Zhang. **Cohesive Subgraph Search over Big Heterogeneous Information Networks: Applications, Challenges, and Solutions** (Tutorial), *ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, pages 2829-2838, 2021.
 3. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, and Ying Zhang. **Towards Efficient Solutions of Bitruss Decomposition for Large-scale Bipartite Graphs**, *The VLDB Journal (**VLDBJ**)*, pages 1-24, 2021.
 4. Yizhang He, **Kai Wang\***, Wenjie Zhang, Xuemin Lin, and Ying Zhang. **Exploring Cohesive Subgraphs with Vertex Engagement and Tie Strength in Bipartite Graphs**, *Information Sciences*, pages 277-296, 2021.
