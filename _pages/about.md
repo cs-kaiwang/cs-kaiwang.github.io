@@ -45,6 +45,7 @@ Academic Services
 
 - Program Committee
   - [CIKM 2021](https://www.cikm2021.org/).
+  - WISE 2021.
   - SpatialDI 2021.
 
 - Invited Journal Reviewer
