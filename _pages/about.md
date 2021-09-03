@@ -14,8 +14,8 @@ His research interests lie in big data analytics, especially for the graph/netwo
 
 Publications (* indicates corresponding author)
 ======
-1. Yuting Zhang, **Kai Wang\***, Wenjie Zhang, Xuemin Lin, and Ying Zhang. **Pareto-Optimal Community Search on Large Bipartite Graphs**, *The Conference on Information and Knowledge Management (CIKM)*, 2021.
-2. **Kai Wang**, Wenjie Zhang, Ying Zhang, Lu Qin, and Yuting Zhang. **Discovering Significant Communities on Bipartite Graphs: An Index-based Approach**, *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2021.
+1. **Kai Wang**, Wenjie Zhang, Ying Zhang, Lu Qin, and Yuting Zhang. **Discovering Significant Communities on Bipartite Graphs: An Index-based Approach**, *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2021.
+2. Yuting Zhang, **Kai Wang\***, Wenjie Zhang, Xuemin Lin, and Ying Zhang. **Pareto-Optimal Community Search on Large Bipartite Graphs**, *The Conference on Information and Knowledge Management (CIKM)*, 2021.
 3. **Kai Wang**, Yiheng Hu, Xuemin Lin, Wenjie Zhang, Lu Qin, and Ying Zhang. **CohBGA: A Cohesive Structure Based Bipartite Graph Analytics System** (Demo), *The Conference on Information and Knowledge Management (CIKM)*, 2021.
 4. Xiaoshuang Chen, **Kai Wang\***, Xuemin Lin, Wenjie Zhang, Lu Qin, and Ying Zhang. **Efficiently Answering Reachability and Path Queries on Temporal Bipartite Graphs**, *International Conference on Very Large Data Bases (**VLDB**)*, pages 1845-1858, 2021.
 5. Yixiang Fang, **Kai Wang**, Xuemin Lin, and Wenjie Zhang. **Cohesive Subgraph Search over Big Heterogeneous Information Networks: Applications, Challenges, and Solutions** (Tutorial), *ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, pages 2829-2838, 2021.
