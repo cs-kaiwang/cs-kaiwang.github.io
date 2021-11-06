@@ -47,7 +47,7 @@ Academic Services
 - Program Committee
   - [WSDM 2022](https://www.wsdm-conference.org/2022/).
   - [CIKM 2021](https://www.cikm2021.org/).
-  - WISE 2021.
+  - WISE 2021, WISE 2022.
   - SpatialDI 2021.
 
 - Invited Journal Reviewer
