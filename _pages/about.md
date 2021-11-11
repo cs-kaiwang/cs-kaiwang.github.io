@@ -36,6 +36,8 @@ Talks
 ======
 - Yixiang Fang, **Kai Wang**, Xuemin Lin, and Wenjie Zhang. [**Cohesive Subgraph Search over Big Heterogeneous Information Networks: Applications, Challenges, and Solutions** (Tutorial)](https://www.bilibili.com/video/BV1D54y1G7TS?p=17), *ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, 2021.
 - Wenjie Zhang, **Kai Wang**, Ying Zhang, and Xuemin Lin. **Cohesive Structure based Bipartite Graph Analysis: From Motif Level to Subgraph Level** (Tutorial), *International Conference on Database Systems for Advanced Applications (DASFAA)*, 2020.
+- **Cohesive Structure Based Bipartite Network Analytics**, Wangxuan Forum, Peking University, 2021.
+- **Cohesive Structure Based Complex Network Analytics**, Hunan University, 2020.
 
 Academic Services
 ======
