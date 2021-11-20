@@ -15,7 +15,7 @@ His research interests lie in big data analytics, especially for the graph/netwo
 Publications (* indicates corresponding author)
 ======
 1. **Kai Wang**, Wenjie Zhang, Xuemin Lin, Lu Qin, and Alexander Zhou. **Efficient Personalized Maximum Biclique Search**, *IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2022.
-2. Yizhang He, **Kai Wang**, Wenjie Zhang, Xuemin Lin, and Ying Zhang. **Efficient Reinforcement of Bipartite Networks at Billion Scale**, *IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2022.
+2. Yizhang He, **Kai Wang\***, Wenjie Zhang, Xuemin Lin, and Ying Zhang. **Efficient Reinforcement of Bipartite Networks at Billion Scale**, *IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2022.
 3. **Kai Wang**, Wenjie Zhang, Ying Zhang, Lu Qin, and Yuting Zhang. **Discovering Significant Communities on Bipartite Graphs: An Index-based Approach**, *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2021.
 4. Yuting Zhang, **Kai Wang\***, Wenjie Zhang, Xuemin Lin, and Ying Zhang. **Pareto-Optimal Community Search on Large Bipartite Graphs**, *The Conference on Information and Knowledge Management (CIKM)*, 2021.
 5. **Kai Wang**, Yiheng Hu, Xuemin Lin, Wenjie Zhang, Lu Qin, and Ying Zhang. **CohBGA: A Cohesive Structure Based Bipartite Graph Analytics System** (Demo), *The Conference on Information and Knowledge Management (CIKM)*, 2021.
