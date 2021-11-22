@@ -50,7 +50,7 @@ Academic Services
 
 - Program Committee
   - [KDD 2022](https://kdd.org/kdd2022/) (Applied Science Track).
-  - [ICDE 2022](https://icde2022.ieeecomputer.my/) (TKDE Poster Track).
+  <!-- [ICDE 2022](https://icde2022.ieeecomputer.my/) (TKDE Poster Track).-->
   - [WSDM 2022](https://www.wsdm-conference.org/2022/).
   - [CIKM 2021](https://www.cikm2021.org/).
   - WISE 2021, WISE 2022.
