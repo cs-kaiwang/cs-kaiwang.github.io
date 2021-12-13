@@ -63,7 +63,7 @@ Academic Services
 Teaching
 ======
 - Course Instructor
-  - Data Analytics for Graphs  (COMP9312) -  2021 T2 (*received 100% positive ratings in the post-course survey*).
+  - Data Analytics for Graphs  (COMP9312) -  2021 T2 (*received 100% positive ratings on teaching in the post-course survey*).
 
 - TA, * indicates Head TA
   - Big Data Management  (COMP9313) -  2017 S2, 2018 S2.
