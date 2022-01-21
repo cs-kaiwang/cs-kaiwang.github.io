@@ -61,7 +61,7 @@ Academic Services
 
 Teaching
 ======
-- Course Co-Instructor
+- Course Instructor
   - Data Analytics for Graphs  (COMP9312) -  2021 T2 (*received 100% positive ratings on teaching in the post-course survey*).
 
 - TA, * indicates Head TA
