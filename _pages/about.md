@@ -54,7 +54,7 @@ Academic Services
   - [CIKM 2021](https://www.cikm2021.org/), WISE 2021, SpatialDI 2021.
 
 - Invited Journal Reviewer
-  - VLDBJ, TKDE, JOWS, WWWJ.
+  - VLDBJ, TKDE, JOWS, WWWJ, JCST.
 
 - (External) Conference Reviewer
   - SIGMOD, VLDB, ICDE, KDD, WWW, EDBT, CIKM, etc.
