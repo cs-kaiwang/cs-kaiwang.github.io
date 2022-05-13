@@ -14,7 +14,7 @@ His research interests lie in big data analytics, especially for the graph/netwo
 
 Publications (* indicates corresponding author)
 ======
-1. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang\*, and Ying Zhang. **Accelerated butterfly counting with vertex priority on bipartite graphs**, *The VLDB Journal (**VLDBJ**)*, 2022.
+1. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, and Ying Zhang. **Accelerated butterfly counting with vertex priority on bipartite graphs**, *The VLDB Journal (**VLDBJ**)*, 2022.
 2. **Kai Wang**, Wenjie Zhang, Xuemin Lin, Lu Qin, and Alexander Zhou. **Efficient Personalized Maximum Biclique Search**, *IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2022.
 3. **Kai Wang**, Wenjie Zhang, Xuemin Lin, Ying Zhang, and Shunyang Li. **Discovering Hierarchy of Bipartite Graphs with Cohesive Subgraphs**, *IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2022.
 4. Gengda Zhao, **Kai Wang\***, Wenjie Zhang, Xuemin Lin, Ying Zhang, and Yizhang He. **Efficient Computation of Cohesive Subgraphs in Uncertain Bipartite Graphs**, *IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2022.
