@@ -12,6 +12,8 @@ Kai Wang is currently a Postdoctoral Researcher in the Data and Knowledge Resear
 
 His research interests lie in big data analytics, especially for the graph/network and spatial data.  Link to [Google Scholar](https://scholar.google.com/citations?user=G4DiwTIAAAAJ&hl=en). Email address: cskaelwang@gmail.com
 
+*News: I will soon join the Department of Data and Business Intelligence, Antai College of Economics and Management, Shanghai Jiao Tong University as an assistant professor!*
+
 Publications (* indicates corresponding author)
 ======
 1. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, and Ying Zhang. **Accelerated butterfly counting with vertex priority on bipartite graphs**, *The VLDB Journal (**VLDBJ**)*, 2022.
