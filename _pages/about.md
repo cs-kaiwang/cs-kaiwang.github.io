@@ -60,7 +60,7 @@ Academic Services
   - [CIKM 2021](https://www.cikm2021.org/), WISE 2021, SpatialDI 2021.
 
 - Editoral Board:
-  - Frontiers in Big Data (Review Editor)
+  - Frontiers in Big Data (Review Editor).
 
 - Invited Journal Reviewer
   - VLDBJ, TKDE, JOWS, WWWJ, JCST.
