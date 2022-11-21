@@ -41,6 +41,7 @@ Publications (* indicates corresponding author)
 23. **Kai Wang**, Xin Cao, Xuemin Lin, Wenjie Zhang, and Lu Qin. **Efficient Computing of Radius-bounded k-cores**, *IEEE International Conference on Data Engineering (**ICDE**)*, pages 233-244, 2018.
 24. Bo Tang, Man Lung Yiu, Kyriakos Mouratidis, and **Kai Wang**. **Efficient Motif Discovery in Spatial Trajectories using Discrete Fréchet Distance**, *International Conference on Extending Database Technology (EDBT)*, pages 378-389, 2017.
 25. Lu Chen, Yunjun Gao, **Kai Wang**, Christian S Jensen, and Gang Chen. **Answering Why-not Questions on Metric Probabilistic Range Queries**, *IEEE International Conference on Data Engineering (**ICDE**)*, pages 767-778, 2016.
+<!---Yuren Mao, Yaobo Liang, Nan Duan, Haobo Wang, Kai Wang, Lu Chen, and Yunjun Gao, Less-forgetting Multi-lingual Fine-tuning, Conference on Neural Information Processing Systems (NeurIPS), to appear, 2022.---!>
 
 Talks
 ======
