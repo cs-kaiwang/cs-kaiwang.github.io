@@ -94,7 +94,7 @@ Selected Awards
 - [Dean’s Award for Outstanding PhD Theses](https://www.inside.unsw.edu.au/campus-life/forty-eight-unsw-phd-graduates-have-been-awarded-the-deans-award-outstanding-phd-theses) @ UNSW, 2021
 - Outstanding Undergraduate Thesis @ ZJU, 2016
 <!--- First Prize of National Undergraduate Training Program @ ZJU, 2015
-- First Prize of National Olympiad in Informatics in Provinces (NOIP) @ Shandong, 2011---!>
+- First Prize of National Olympiad in Informatics in Provinces (NOIP) @ Shandong, 2011--->
 
 
 
