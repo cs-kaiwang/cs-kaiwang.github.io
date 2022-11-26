@@ -12,6 +12,7 @@ Kai Wang is currently an assistant professor at the Department of Data and Busin
 
 His research interests lie in big data analytics, especially for the graph/network and spatial data.  Link to [Google Scholar](https://scholar.google.com/citations?user=G4DiwTIAAAAJ&hl=en). Email address: cskaelwang@gmail.com
 
+Note: I have close cooperation with many top-tier IT companies such as Alibaba DAMO Academy. For undergraduate students, please feel free to contact me via email if you are interested in big-data-related research, especially for those who want to participate in an enterprise internship or pursue a higher-level degree.
 
 <!---Yuren Mao, Yaobo Liang, Nan Duan, Haobo Wang, Kai Wang, Lu Chen, and Yunjun Gao, Less-forgetting Multi-lingual Fine-tuning, Conference on Neural Information Processing Systems (NeurIPS), to appear, 2022.--->
 
