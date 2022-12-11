@@ -87,13 +87,14 @@ Teaching
 
   - Data Science and Decisions (DATA1001) -  2017 S2, 2018 S2\*, 2019 T2\*.
 
+<!-- First Prize of National Undergraduate Training Program @ ZJU, 2015 First Prize of National Olympiad in Informatics in Provinces (NOIP) @ Shandong, 2011-->
+
 Selected Awards
 ======
 - [VLDB Endowment Grants](http://vldb.org/2021/?info-travel-support) @ VLDB 2021
 - CSE Foundation Fellowship @ UNSW, 2021
 - [Dean’s Award for Outstanding PhD Theses](https://www.inside.unsw.edu.au/campus-life/forty-eight-unsw-phd-graduates-have-been-awarded-the-deans-award-outstanding-phd-theses) @ UNSW, 2021
 - Outstanding Undergraduate Thesis @ ZJU, 2016
-<!-- First Prize of National Undergraduate Training Program @ ZJU, 2015 First Prize of National Olympiad in Informatics in Provinces (NOIP) @ Shandong, 2011-->
 
 
 
