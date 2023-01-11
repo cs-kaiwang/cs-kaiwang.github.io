@@ -92,6 +92,7 @@ Teaching
 
 Selected Awards
 ======
+- VLDB 2022 Serves Award (For Outstanding service to the VLDB 2022 Conference Organization) @ VLDB 2021
 - [VLDB Endowment Grants](http://vldb.org/2021/?info-travel-support) @ VLDB 2021
 - CSE Foundation Fellowship @ UNSW, 2021
 - [Dean’s Award for Outstanding PhD Theses](https://www.inside.unsw.edu.au/campus-life/forty-eight-unsw-phd-graduates-have-been-awarded-the-deans-award-outstanding-phd-theses) @ UNSW, 2021
