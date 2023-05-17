@@ -17,33 +17,34 @@ His research interests lie in big data analytics, especially for the graph/netwo
 Publications (* indicates corresponding author)
 ======
 1. Yizhang He, **Kai Wang\***, Wenjie Zhang, Xuemin Lin, and Ying Zhang, **Scaling Up k-Clique Densest Subgraph Detection**, *ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, to appear, 2023.
-2. Yiwei Zhao, Zi Chen, Long Yuan, Xuemin Lin, and **Kai Wang**, **Index-Based Biclique Percolation Communities Search on Bipartite graphs**, *IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2023.
-3. Jiadong Xie, Fan Zhang, **Kai Wang**, Xuemin Lin, and Wenjie Zhang, **Minimizing the Influence of Misinformation via Vertex Blocking**, *IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2023.
-4. **Kai Wang**, Gengda Zhao, Wenjie Zhang, Xuemin Lin, Ying Zhang, Yizhang He, Chunxiao Li. **Cohesive Subgraph Discovery over Uncertain Bipartite Graphs**, *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, to appear, 2023.
-5. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, and Ying Zhang. **Accelerated butterfly counting with vertex priority on bipartite graphs**, *The VLDB Journal (**VLDBJ**)*, 2022.
-6. Yixiang Fang, **Kai Wang**, Xuemin Lin, and Wenjie Zhang. **Cohesive Subgraph Search over Big Heterogeneous Information Networks** (Book), *Springer Briefs in Computer Science*, 2022.
-7. Yuren Mao, Yaobo Liang, Nan Duan, Haobo Wang, **Kai Wang**, Lu Chen, and Yunjun Gao, **Less-forgetting Multi-lingual Fine-tuning**, *Conference on Neural Information Processing Systems (**NeurIPS**)*, to appear, 2022.
-8. **Kai Wang**, Wenjie Zhang, Xuemin Lin, Lu Qin, and Alexander Zhou. **Efficient Personalized Maximum Biclique Search**, *IEEE International Conference on Data Engineering (**ICDE**)*, pages 498-511, 2022.
-9. **Kai Wang**, Wenjie Zhang, Xuemin Lin, Ying Zhang, and Shunyang Li. **Discovering Hierarchy of Bipartite Graphs with Cohesive Subgraphs**, *IEEE International Conference on Data Engineering (**ICDE**)*, pages 2291-2305, 2022.
-10. Gengda Zhao, **Kai Wang\***, Wenjie Zhang, Xuemin Lin, Ying Zhang, and Yizhang He. **Efficient Computation of Cohesive Subgraphs in Uncertain Bipartite Graphs**, *IEEE International Conference on Data Engineering (**ICDE**)*, pages 2333-2345, 2022.
-11. Yizhang He, **Kai Wang\***, Wenjie Zhang, Xuemin Lin, and Ying Zhang. **Efficient Reinforcement of Bipartite Networks at Billion Scale**, *IEEE International Conference on Data Engineering (**ICDE**)*, pages 446-458, 2022.
-12. **Kai Wang**, Wenjie Zhang, Ying Zhang, Lu Qin, and Yuting Zhang. **Discovering Significant Communities on Bipartite Graphs: An Index-based Approach**, *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2021.
-13. Yuting Zhang, **Kai Wang\***, Wenjie Zhang, Xuemin Lin, and Ying Zhang. **Pareto-Optimal Community Search on Large Bipartite Graphs**, *The Conference on Information and Knowledge Management (CIKM)*, pages 2647-2656, 2021.
-14. **Kai Wang**, Yiheng Hu, Xuemin Lin, Wenjie Zhang, Lu Qin, and Ying Zhang. **CohBGA: A Cohesive Structure Based Bipartite Graph Analytics System** (Demo), *The Conference on Information and Knowledge Management (CIKM)*, pages 4799-4803, 2021.
-15. Xiaoshuang Chen, **Kai Wang\***, Xuemin Lin, Wenjie Zhang, Lu Qin, and Ying Zhang. **Efficiently Answering Reachability and Path Queries on Temporal Bipartite Graphs**, *International Conference on Very Large Data Bases (**VLDB**)*, 14(10): 1845-1858, 2021.
-16. Yixiang Fang, **Kai Wang**, Xuemin Lin, and Wenjie Zhang. **Cohesive Subgraph Search over Big Heterogeneous Information Networks: Applications, Challenges, and Solutions** (Tutorial), *ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, pages 2829-2838, 2021.
-17. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, and Ying Zhang. **Towards Efficient Solutions of Bitruss Decomposition for Large-scale Bipartite Graphs**, *The VLDB Journal (**VLDBJ**)*, 31(2): 203-226, 2021.
-18. Yizhang He, **Kai Wang\***, Wenjie Zhang, Xuemin Lin, and Ying Zhang. **Exploring Cohesive Subgraphs with Vertex Engagement and Tie Strength in Bipartite Graphs**, *Information Sciences*, 572: 277-296, 2021.
-19. Fan Zhang, Jiadong Xie, **Kai Wang**, Shiyu Yang, Yu Jiang. **Discovering Key Users for Defending Network Structural Stability**, *World Wide Web*, 25(2): 679-701, 2021.
-20. Bo Tang, Man Lung Yiu, Kyriakos Mouratidis, Jiahao Zhang, and **Kai Wang**. **On Discovering Motifs and Frequent Patterns in Spatial Trajectories with Discrete Frechet Distance**, *GeoInformatica*, 26(1): 29-66, 2021.
-21. **Kai Wang**, Wenjie Zhang, Xuemin Lin, Ying Zhang, Lu Qin, and Yuting Zhang. **Efficient and Effective Community Search on Large-scale Bipartite Graphs**, *IEEE International Conference on Data Engineering (**ICDE**)*, pages 85-96, 2021.
-22. **Kai Wang**, Shuting Wang, Xin Cao, and Lu Qin. **Efficient Radius-bounded Community Search in Geo-social Networks**, *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 34(9): 4186-4200, 2020. 
-23. Maryam Ghafouri, **Kai Wang\***, Fan Zhang, Ying Zhang, and Xuemin Lin. **Efficient Graph Hierarchical Decomposition With User Engagement And Tie Strength**, *International Conference on Database Systems for Advanced Applications (DASFAA)*, pages 448-465, 2020.
-24. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, and Ying Zhang. **Efficient Bitruss Decomposition for Large-scale Bipartite Graphs**, *IEEE International Conference on Data Engineering (**ICDE**)*, pages 661-672, 2020.
-25. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, and Ying Zhang. **Vertex Priority Based Butterfly Counting for Large-scale Bipartite Networks**, *International Conference on Very Large Data Bases (**VLDB**)*, 12(10): 1139-1152, 2019.
-26. **Kai Wang**, Xin Cao, Xuemin Lin, Wenjie Zhang, and Lu Qin. **Efficient Computing of Radius-bounded k-cores**, *IEEE International Conference on Data Engineering (**ICDE**)*, pages 233-244, 2018.
-27. Bo Tang, Man Lung Yiu, Kyriakos Mouratidis, and **Kai Wang**. **Efficient Motif Discovery in Spatial Trajectories using Discrete Fréchet Distance**, *International Conference on Extending Database Technology (EDBT)*, pages 378-389, 2017.
-28. Lu Chen, Yunjun Gao, **Kai Wang**, Christian S Jensen, and Gang Chen. **Answering Why-not Questions on Metric Probabilistic Range Queries**, *IEEE International Conference on Data Engineering (**ICDE**)*, pages 767-778, 2016.
+2. Fan Zhang, Qingyuan Linghu, Jiadong Xie, **Kai Wang\***, Xuemin Lin, Wenjie Zhang, **Quantifying Node Importance over Network Structural Stability**, *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD**)*, to appear, 2023.
+3. Yiwei Zhao, Zi Chen, Long Yuan, Xuemin Lin, and **Kai Wang**, **Index-Based Biclique Percolation Communities Search on Bipartite graphs**, *IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2023.
+4. Jiadong Xie, Fan Zhang, **Kai Wang**, Xuemin Lin, and Wenjie Zhang, **Minimizing the Influence of Misinformation via Vertex Blocking**, *IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2023.
+5. **Kai Wang**, Gengda Zhao, Wenjie Zhang, Xuemin Lin, Ying Zhang, Yizhang He, Chunxiao Li. **Cohesive Subgraph Discovery over Uncertain Bipartite Graphs**, *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, to appear, 2023.
+6. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, and Ying Zhang. **Accelerated butterfly counting with vertex priority on bipartite graphs**, *The VLDB Journal (**VLDBJ**)*, 2022.
+7. Yixiang Fang, **Kai Wang**, Xuemin Lin, and Wenjie Zhang. **Cohesive Subgraph Search over Big Heterogeneous Information Networks** (Book), *Springer Briefs in Computer Science*, 2022.
+8. Yuren Mao, Yaobo Liang, Nan Duan, Haobo Wang, **Kai Wang**, Lu Chen, and Yunjun Gao, **Less-forgetting Multi-lingual Fine-tuning**, *Conference on Neural Information Processing Systems (**NeurIPS**)*, to appear, 2022.
+9. **Kai Wang**, Wenjie Zhang, Xuemin Lin, Lu Qin, and Alexander Zhou. **Efficient Personalized Maximum Biclique Search**, *IEEE International Conference on Data Engineering (**ICDE**)*, pages 498-511, 2022.
+10. **Kai Wang**, Wenjie Zhang, Xuemin Lin, Ying Zhang, and Shunyang Li. **Discovering Hierarchy of Bipartite Graphs with Cohesive Subgraphs**, *IEEE International Conference on Data Engineering (**ICDE**)*, pages 2291-2305, 2022.
+11. Gengda Zhao, **Kai Wang\***, Wenjie Zhang, Xuemin Lin, Ying Zhang, and Yizhang He. **Efficient Computation of Cohesive Subgraphs in Uncertain Bipartite Graphs**, *IEEE International Conference on Data Engineering (**ICDE**)*, pages 2333-2345, 2022.
+12. Yizhang He, **Kai Wang\***, Wenjie Zhang, Xuemin Lin, and Ying Zhang. **Efficient Reinforcement of Bipartite Networks at Billion Scale**, *IEEE International Conference on Data Engineering (**ICDE**)*, pages 446-458, 2022.
+13. **Kai Wang**, Wenjie Zhang, Ying Zhang, Lu Qin, and Yuting Zhang. **Discovering Significant Communities on Bipartite Graphs: An Index-based Approach**, *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2021.
+14. Yuting Zhang, **Kai Wang\***, Wenjie Zhang, Xuemin Lin, and Ying Zhang. **Pareto-Optimal Community Search on Large Bipartite Graphs**, *The Conference on Information and Knowledge Management (CIKM)*, pages 2647-2656, 2021.
+15. **Kai Wang**, Yiheng Hu, Xuemin Lin, Wenjie Zhang, Lu Qin, and Ying Zhang. **CohBGA: A Cohesive Structure Based Bipartite Graph Analytics System** (Demo), *The Conference on Information and Knowledge Management (CIKM)*, pages 4799-4803, 2021.
+16. Xiaoshuang Chen, **Kai Wang\***, Xuemin Lin, Wenjie Zhang, Lu Qin, and Ying Zhang. **Efficiently Answering Reachability and Path Queries on Temporal Bipartite Graphs**, *International Conference on Very Large Data Bases (**VLDB**)*, 14(10): 1845-1858, 2021.
+17. Yixiang Fang, **Kai Wang**, Xuemin Lin, and Wenjie Zhang. **Cohesive Subgraph Search over Big Heterogeneous Information Networks: Applications, Challenges, and Solutions** (Tutorial), *ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, pages 2829-2838, 2021.
+18. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, and Ying Zhang. **Towards Efficient Solutions of Bitruss Decomposition for Large-scale Bipartite Graphs**, *The VLDB Journal (**VLDBJ**)*, 31(2): 203-226, 2021.
+19. Yizhang He, **Kai Wang\***, Wenjie Zhang, Xuemin Lin, and Ying Zhang. **Exploring Cohesive Subgraphs with Vertex Engagement and Tie Strength in Bipartite Graphs**, *Information Sciences*, 572: 277-296, 2021.
+20. Fan Zhang, Jiadong Xie, **Kai Wang**, Shiyu Yang, Yu Jiang. **Discovering Key Users for Defending Network Structural Stability**, *World Wide Web*, 25(2): 679-701, 2021.
+21. Bo Tang, Man Lung Yiu, Kyriakos Mouratidis, Jiahao Zhang, and **Kai Wang**. **On Discovering Motifs and Frequent Patterns in Spatial Trajectories with Discrete Frechet Distance**, *GeoInformatica*, 26(1): 29-66, 2021.
+22. **Kai Wang**, Wenjie Zhang, Xuemin Lin, Ying Zhang, Lu Qin, and Yuting Zhang. **Efficient and Effective Community Search on Large-scale Bipartite Graphs**, *IEEE International Conference on Data Engineering (**ICDE**)*, pages 85-96, 2021.
+23. **Kai Wang**, Shuting Wang, Xin Cao, and Lu Qin. **Efficient Radius-bounded Community Search in Geo-social Networks**, *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 34(9): 4186-4200, 2020. 
+24. Maryam Ghafouri, **Kai Wang\***, Fan Zhang, Ying Zhang, and Xuemin Lin. **Efficient Graph Hierarchical Decomposition With User Engagement And Tie Strength**, *International Conference on Database Systems for Advanced Applications (DASFAA)*, pages 448-465, 2020.
+25. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, and Ying Zhang. **Efficient Bitruss Decomposition for Large-scale Bipartite Graphs**, *IEEE International Conference on Data Engineering (**ICDE**)*, pages 661-672, 2020.
+26. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, and Ying Zhang. **Vertex Priority Based Butterfly Counting for Large-scale Bipartite Networks**, *International Conference on Very Large Data Bases (**VLDB**)*, 12(10): 1139-1152, 2019.
+27. **Kai Wang**, Xin Cao, Xuemin Lin, Wenjie Zhang, and Lu Qin. **Efficient Computing of Radius-bounded k-cores**, *IEEE International Conference on Data Engineering (**ICDE**)*, pages 233-244, 2018.
+28. Bo Tang, Man Lung Yiu, Kyriakos Mouratidis, and **Kai Wang**. **Efficient Motif Discovery in Spatial Trajectories using Discrete Fréchet Distance**, *International Conference on Extending Database Technology (EDBT)*, pages 378-389, 2017.
+29. Lu Chen, Yunjun Gao, **Kai Wang**, Christian S Jensen, and Gang Chen. **Answering Why-not Questions on Metric Probabilistic Range Queries**, *IEEE International Conference on Data Engineering (**ICDE**)*, pages 767-778, 2016.
 
 
 Talks
@@ -63,7 +64,7 @@ Academic Services
 
 - Program Committee
   - VLDB 2024.
-  - VLDB 2023, KDD 2023, DASFAA 2023, ECMLPKDD2023.
+  - VLDB 2023, KDD 2023, DASFAA 2023, ECMLPKDD 2023, ADMA 2023.
   - [CIKM 2022](https://www.cikm2022.org/), [KDD 2022](https://kdd.org/kdd2022/) (Applied Science Track), [ICDE 2022](https://icde2022.ieeecomputer.my/) (TKDE Poster Track), [WSDM 2022](https://www.wsdm-conference.org/2022/), WISE 2022.
   - [CIKM 2021](https://www.cikm2021.org/), WISE 2021, SpatialDI 2021.
 
