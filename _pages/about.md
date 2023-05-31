@@ -64,7 +64,7 @@ Academic Services
 
 - Program Committee
   - VLDB 2024.
-  - VLDB 2023, KDD 2023, DASFAA 2023, ECMLPKDD 2023, ADMA 2023.
+  - VLDB 2023, KDD 2023, CIKM 2023, DASFAA 2023, ECMLPKDD 2023, ADMA 2023.
   - [CIKM 2022](https://www.cikm2022.org/), [KDD 2022](https://kdd.org/kdd2022/) (Applied Science Track), [ICDE 2022](https://icde2022.ieeecomputer.my/) (TKDE Poster Track), [WSDM 2022](https://www.wsdm-conference.org/2022/), WISE 2022.
   - [CIKM 2021](https://www.cikm2021.org/), WISE 2021, SpatialDI 2021.
 
