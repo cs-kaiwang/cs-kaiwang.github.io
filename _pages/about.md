@@ -72,7 +72,7 @@ Academic Services
   - Frontiers in Big Data (Review Editor).
 
 - Invited Journal Reviewer
-  - VLDBJ, TKDE, JOWS, WWWJ, JCST.
+  - IEEE Transactions on Knowledge and Data Engineering (TKDE), The VLDB Journal (VLDBJ), INFORMS Journal on Computing (JOC), Journal of Web Semantics (JWS), World Wide Web Journal (WWWJ), Journal of Computer Science and Technology (JCST).
 
 - (External) Conference Reviewer
   - SIGMOD, VLDB, ICDE, KDD, WWW, EDBT, CIKM, etc.
