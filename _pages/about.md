@@ -22,7 +22,7 @@ Publications (* indicates corresponding author)
 4. Jiadong Xie, Fan Zhang, **Kai Wang**, Xuemin Lin, and Wenjie Zhang, **Minimizing the Influence of Misinformation via Vertex Blocking**, *IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2023.
 5. **Kai Wang**, Gengda Zhao, Wenjie Zhang, Xuemin Lin, Ying Zhang, Yizhang He, Chunxiao Li. **Cohesive Subgraph Discovery over Uncertain Bipartite Graphs**, *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, to appear, 2023.
 6. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, and Ying Zhang. **Accelerated butterfly counting with vertex priority on bipartite graphs**, *The VLDB Journal (**VLDBJ**)*, 2022.
-7. Yixiang Fang, **Kai Wang**, Xuemin Lin, and Wenjie Zhang. **Cohesive Subgraph Search over Big Heterogeneous Information Networks** (Book), *Springer Briefs in Computer Science*, 2022.
+7. Yixiang Fang, **Kai Wang**, Xuemin Lin, and Wenjie Zhang. **Cohesive Subgraph Search over Big Heterogeneous Information Networks** (Book), *Springer Briefs in Computer Science*, Springer Nature, 2022.
 8. Yuren Mao, Yaobo Liang, Nan Duan, Haobo Wang, **Kai Wang**, Lu Chen, and Yunjun Gao, **Less-forgetting Multi-lingual Fine-tuning**, *Conference on Neural Information Processing Systems (**NeurIPS**)*, to appear, 2022.
 9. **Kai Wang**, Wenjie Zhang, Xuemin Lin, Lu Qin, and Alexander Zhou. **Efficient Personalized Maximum Biclique Search**, *IEEE International Conference on Data Engineering (**ICDE**)*, pages 498-511, 2022.
 10. **Kai Wang**, Wenjie Zhang, Xuemin Lin, Ying Zhang, and Shunyang Li. **Discovering Hierarchy of Bipartite Graphs with Cohesive Subgraphs**, *IEEE International Conference on Data Engineering (**ICDE**)*, pages 2291-2305, 2022.
