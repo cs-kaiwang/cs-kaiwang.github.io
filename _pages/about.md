@@ -18,7 +18,7 @@ Publications (* indicates corresponding author)
 ======
 1. Jianwei Wang, **Kai Wang\***, Xuemin Lin, Wenjie Zhang, and Ying Zhang, **Neural Attributed Community Search at Billion Scale**, *ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, to appear, 2024.
 2. Yuting Zhang, **Kai Wang\***, Wenjie Zhang, Wei Ni, and Xuemin Lin. **Size-bounded Community Search over Large Bipartite Graphs**, *International Conference on Extending Database Technology (EDBT)*, to appear, 2024.
-3. Siyi Teng, Jiadong Xie, Mingkai Zhang, **Kai Wang\***, and Fan Zhang. **IMinimize: A System for Negative Influence Minimization via Vertex Blocking**, *The Conference on Information and Knowledge Management (CIKM)*, to appear, 2023.
+3. Siyi Teng, Jiadong Xie, Mingkai Zhang, Kai Wang, and Fan Zhang. **IMinimize: A System for Negative Influence Minimization via Vertex Blocking**, *The Conference on Information and Knowledge Management (CIKM)*, to appear, 2023.
 4. Yizhang He, **Kai Wang\***, Wenjie Zhang, Xuemin Lin, and Ying Zhang, **Scaling Up k-Clique Densest Subgraph Detection**, *ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, to appear, 2023.
 5. Fan Zhang, Qingyuan Linghu, Jiadong Xie, **Kai Wang\***, Xuemin Lin, Wenjie Zhang, **Quantifying Node Importance over Network Structural Stability**, *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD**)*, to appear, 2023.
 6. Yiwei Zhao, Zi Chen, Long Yuan, Xuemin Lin, and **Kai Wang**, **Index-Based Biclique Percolation Communities Search on Bipartite graphs**, *IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2023.
