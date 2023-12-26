@@ -71,11 +71,11 @@ Academic Services
   - [CIKM 2022](https://www.cikm2022.org/), [KDD 2022](https://kdd.org/kdd2022/) (Applied Science Track), [ICDE 2022](https://icde2022.ieeecomputer.my/) (TKDE Poster Track), [WSDM 2022](https://www.wsdm-conference.org/2022/), WISE 2022.
   - [CIKM 2021](https://www.cikm2021.org/), WISE 2021, SpatialDI 2021.
 
-- Editoral Board:
+- Editorial Board:
   - Frontiers in Big Data (Review Editor).
 
 - Invited Journal Reviewer
-  - IEEE Transactions on Knowledge and Data Engineering (TKDE), The VLDB Journal (VLDBJ), INFORMS Journal on Computing (JOC), Journal of Web Semantics (JWS), World Wide Web Journal (WWWJ), Journal of Computer Science and Technology (JCST).
+  - ACM Transaction on Database Systems (TODS), IEEE Transactions on Knowledge and Data Engineering (TKDE), The VLDB Journal (VLDBJ), INFORMS Journal on Computing (JOC), Journal of Web Semantics (JWS), World Wide Web Journal (WWWJ), Journal of Computer Science and Technology (JCST).
 
 - (External) Conference Reviewer
   - SIGMOD, VLDB, ICDE, KDD, WWW, EDBT, CIKM, etc.
@@ -98,7 +98,7 @@ Teaching
 
 Selected Awards
 ======
-- 2022 VLDB Service Award (For Outstanding service to the VLDB 2022 Conference Organization) @ VLDB 2022
+- 2022 VLDB Service Award (For outstanding service to the VLDB 2022 Conference Organization) @ VLDB 2022
 - [VLDB Endowment Grants](http://vldb.org/2021/?info-travel-support) @ VLDB 2021
 - CSE Foundation Fellowship @ UNSW, 2021
 - [Dean’s Award for Outstanding PhD Theses](https://www.inside.unsw.edu.au/campus-life/forty-eight-unsw-phd-graduates-have-been-awarded-the-deans-award-outstanding-phd-theses) @ UNSW, 2021
