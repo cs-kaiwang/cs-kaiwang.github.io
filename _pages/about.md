@@ -93,12 +93,12 @@ Teaching
   - Data Structure (MGTS3401) - 2023 Autumn.
   - Data Analytics for Graphs  (COMP9312) -  2021 T2 (*received 100% positive ratings on teaching in the post-course survey*).
 
-- TA, * indicates Head TA
+<!--  TA, * indicates Head TA
   - Big Data Management  (COMP9313) -  2017 S2, 2018 S2.
 
   - Database Systems (COMP9311) -  2017 S1, 2018 S1\*, 2019 T1\*, 2019 T3\*.
 
-  - Data Science and Decisions (DATA1001) -  2017 S2, 2018 S2\*, 2019 T2\*.
+  - Data Science and Decisions (DATA1001) -  2017 S2, 2018 S2\*, 2019 T2\*.-->
 
 <!-- First Prize of National Undergraduate Training Program @ ZJU, 2015 First Prize of National Olympiad in Informatics in Provinces (NOIP) @ Shandong, 2011-->
 
