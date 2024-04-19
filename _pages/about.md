@@ -16,7 +16,7 @@ His research interests lie in big data analytics, especially for the graph/netwo
 
 Publications (* indicates corresponding author)
 ======
-1. Jianwei Wang, **Kai Wang\***, Xuemin Lin, Wenjie Zhang, and Ying Zhang, **Neural Attributed Community Search at Billion Scale**, *ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, to appear, 2024
+1. Jianwei Wang, **Kai Wang\***, Xuemin Lin, Wenjie Zhang, and Ying Zhang, **Neural Attributed Community Search at Billion Scale**, *ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, to appear, 2024.
 2. Jianwei Wang, Ying Zhang\*, **Kai Wang\***, Xuemin Lin, and Wenjie Zhang, **Missing Data Imputation with Uncertainty-Driven Network**, *ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, to appear, 2024.
 3. Siyi Teng, Jiadong Xie, Fan Zhang, Can Lu, Juntao Fang, **Kai Wang**, **Optimizing Network Resilience via Vertex Anchoring**, *The Web Conference (oral)*, to appear, 2024.
 4. Yuting Zhang, **Kai Wang\***, Wenjie Zhang, Wei Ni, and Xuemin Lin. **Size-bounded Community Search over Large Bipartite Graphs**, *International Conference on Extending Database Technology (EDBT)*, to appear, 2024.
