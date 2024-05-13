@@ -57,6 +57,7 @@ Publications (* indicates corresponding author)
 
 Talks
 ======
+- Hanchen Wang, **Kai Wang**, Wenjie Zhang, and Ying Zhang. **Bipartite Graph Analytics: Current Techniques and Future Trends** (Tutorial), *IEEE International Conference on Data Engineering (**ICDE**)*, 2024.
 - **Cohesive Subgraph based Social Network Analysis**, Fudan University, 2023.
 - Fan Zhang and **Kai Wang**. **Cohesive Subgraph Search: Models, Algorithms, and Applications** (Tutorial), *APWeb-WAIM International Joint Conference on Web and Big Data* (*APWeb-WAIM*), 2022.
 - Yixiang Fang, **Kai Wang**, Xuemin Lin, and Wenjie Zhang. [**Cohesive Subgraph Search over Big Heterogeneous Information Networks: Applications, Challenges, and Solutions** (Tutorial)](https://www.bilibili.com/video/BV1D54y1G7TS?p=17), *ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, 2021.
@@ -72,7 +73,7 @@ Academic Services
   - Publicity Chair of [LSGDA 2020](https://www.google.com/url?q=https%3A%2F%2Flsgda.github.io%2F2020%2F&sa=D&sntz=1&usg=AFQjCNFYfkgg9wBrWW8wUaG8GCGXJz3z_A).
 
 - Program Committee
-  - VLDB 2024, KDD 2024, SDM 2024, DASFAA 2024, ECMLPKDD 2024, ASONAM 2024, ADMA 2024, BigData 2024.
+  - VLDB 2024, KDD 2024, SDM 2024, DASFAA 2024, ECMLPKDD 2024, ASONAM 2024, ADMA 2024, APWeb-WAIM 2024, BigData 2024.
   - VLDB 2023, KDD 2023, CIKM 2023, DASFAA 2023, ECMLPKDD 2023, ADMA 2023.
   - [CIKM 2022](https://www.cikm2022.org/), [KDD 2022](https://kdd.org/kdd2022/) (Applied Science Track), [ICDE 2022](https://icde2022.ieeecomputer.my/) (TKDE Poster Track), [WSDM 2022](https://www.wsdm-conference.org/2022/), WISE 2022.
   - [CIKM 2021](https://www.cikm2021.org/), WISE 2021, SpatialDI 2021.
