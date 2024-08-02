@@ -88,6 +88,7 @@ Academic Services
 
 - Editorial Board:
   - Frontiers in Big Data (Review Editor).
+  - Intelligent Computing (Guest Editor, Special Issue on "AI Empowered Graph Computing").
 
 - Invited Journal Reviewer
   - ACM Transaction on Database Systems (TODS), IEEE Transactions on Knowledge and Data Engineering (TKDE), The VLDB Journal (VLDBJ), INFORMS Journal on Computing (JOC), Journal of Web Semantics (JWS), World Wide Web Journal (WWWJ), Journal of Computer Science and Technology (JCST), The Journal of Supercomputing.
