@@ -20,7 +20,7 @@ Publications (* indicates corresponding author)
 ======
 1. Jianwei Wang, **Kai Wang\***, Xuemin Lin, Wenjie Zhang, and Ying Zhang, **Neural Attributed Community Search at Billion Scale**, *ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, to appear, 2024.
 2. Jianwei Wang, Ying Zhang\*, **Kai Wang\***, Xuemin Lin, and Wenjie Zhang, **Missing Data Imputation with Uncertainty-Driven Network**, *ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, to appear, 2024.
-3. Jianwei Wang, **Kai Wang\***, Xuemin Lin, Wenjie Zhang, and Ying Zhang, **Efficient Unsupervised Community Search with Pre-trained Graph Transformer**. *International Conference on Very Large Data Bases (**VLDB**)*, 17(9): 2227 - 2240, 2023.
+3. Jianwei Wang, **Kai Wang\***, Xuemin Lin, Wenjie Zhang, and Ying Zhang, **Efficient Unsupervised Community Search with Pre-trained Graph Transformer**. *International Conference on Very Large Data Bases (**VLDB**)*, 17(9): 2227 - 2240, 2024.
 4. Kai Wang, Minghao Cai, Xiaoshuang Chen, Xuemin Lin, Wenjie Zhang, Lu Qin, Ying Zhang, **Efficient algorithms for reachability and path queries on temporal bipartite graphs**, *The VLDB Journal (**VLDBJ**)*, 33: 1399–1426, 2024.
 5. Yizhang He, **Kai Wang\***, Wenjie Zhang, Xuemin Lin, and Ying Zhang. **Discovering Critical Vertices for Reinforcement of Large-scale Bipartite Networks**, *The VLDB Journal (**VLDBJ**)*, 33: 1861–1886, 2024.
 6. Yuwen Qian, Guodong Huang, Chuan Ma, Ming Ding, Long Yuan, Zi Chen, **Kai Wang**. **Enhancing Resilience in Website Fingerprinting: Novel Adversary Strategies for Noisy Traffic Environments**, *IEEE Transactions on Information Forensics and Security (**TIFS**)*, 19: 7216 - 7231, 2024.
