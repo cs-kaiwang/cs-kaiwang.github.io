@@ -20,7 +20,7 @@ Publications (* indicates corresponding author)
 ======
 1. Yizhang He, **Kai Wang\***, Wenjie Zhang, Xuemin Lin, and Ying Zhang. **Common Neighborhood Estimation over Bipartite Graphs under Local Differential Privacy**, *ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, to appear, 2025.
 2. Haozhe Yin, **Kai Wang\***, Wenjie Zhang, Ying Zhang, Ruijia Wu, and Xuemin Lin. **Efficient Computation of Hyper-triangles on Hypergraphs**. *International Conference on Very Large Data Bases (**VLDB**)*, to appear, 2025.
-3. Jinyu Duan, Haicheng Guo, Fan Zhang, **Kai Wang**, Zhengping Qian, Zhihong Tian, **The k-Trine Cohesive Subgraph and Its Efficient Algorithms**, *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD**)*, 2025.
+3. Jinyu Duan, Haicheng Guo, Fan Zhang, **Kai Wang**, Zhengping Qian, Zhihong Tian, **The k-Trine Cohesive Subgraph and Its Efficient Algorithms**, *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD**)*, to appear, 2025.
 4. Gengda Zhao, Dong Wen, Xiaoyang Wang, **Kai Wang**, and Xuemin Lin. **Preserving K-Connectivity in Dynamic Graphs**. *IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2025.
 5. Jianwei Wang, **Kai Wang\***, Xuemin Lin, Wenjie Zhang, and Ying Zhang. **Neural Attributed Community Search at Billion Scale**, *ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, 2024.
 6. Jianwei Wang, Ying Zhang\*, **Kai Wang\***, Xuemin Lin, and Wenjie Zhang. **Missing Data Imputation with Uncertainty-Driven Network**, *ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, 2024.
