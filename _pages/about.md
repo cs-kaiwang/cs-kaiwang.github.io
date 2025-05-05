@@ -18,9 +18,9 @@ His research interests lie in big data analytics, especially for the graph/netwo
 
 Publications (* indicates corresponding author)
 ======
-1. Yizhang He, **Kai Wang\***, Wenjie Zhang, Xuemin Lin, and Ying Zhang. **Common Neighborhood Estimation over Bipartite Graphs under Local Differential Privacy**, *ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, to appear, 2025.
-2. Yizhang He, **Kai Wang\***, Wenjie Zhang, Xuemin Lin, Ying Zhang, and Wei Ni. **Robust Privacy-Preserving Triangle Counting under Edge Local Differential Privacy**, *ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, to appear, 2025.
-3. Jiadong Xie, Fan Zhang, **Kai Wang\***, Jialu Liu, Xuemin Lin, and Wenjie Zhang. **Influence Minimization via Blocking Strategies**, *INFORMS Journal on Computing (**IJOC**)*, 2025.
+1. Jiadong Xie, Fan Zhang, **Kai Wang\***, Jialu Liu, Xuemin Lin, and Wenjie Zhang. **Influence Minimization via Blocking Strategies**, *INFORMS Journal on Computing (**IJOC**)*, 2025.
+2. Yizhang He, **Kai Wang\***, Wenjie Zhang, Xuemin Lin, and Ying Zhang. **Common Neighborhood Estimation over Bipartite Graphs under Local Differential Privacy**, *ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, to appear, 2025.
+3. Yizhang He, **Kai Wang\***, Wenjie Zhang, Xuemin Lin, Ying Zhang, and Wei Ni. **Robust Privacy-Preserving Triangle Counting under Edge Local Differential Privacy**, *ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, to appear, 2025.
 4. Haozhe Yin, **Kai Wang\***, Wenjie Zhang, Ying Zhang, Ruijia Wu, and Xuemin Lin. **Efficient Computation of Hyper-triangles on Hypergraphs**. *International Conference on Very Large Data Bases (**VLDB**)*, to appear, 2025.
 5. Jinyu Duan, Haicheng Guo, Fan Zhang, **Kai Wang**, Zhengping Qian, Zhihong Tian, **The k-Trine Cohesive Subgraph and Its Efficient Algorithms**, *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD**)*, to appear, 2025.
 6. Gengda Zhao, Dong Wen, Xiaoyang Wang, **Kai Wang**, and Xuemin Lin. **Preserving K-Connectivity in Dynamic Graphs**. *IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2025.
