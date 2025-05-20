@@ -18,7 +18,7 @@ His research interests lie in big data analytics, especially for the graph/netwo
 
 Publications (* indicates corresponding author)
 ======
-1. Haozhe Yin, **Kai Wang\***, Wenjie Zhang, Yizhang He, Ying Zhang, Xuemin Lin, **Motif Counting in Complex Networks: A Comprehensive Survey**, arXiv preprint arXiv:2503.19573, 2025.
+1. Haozhe Yin, **Kai Wang**, Wenjie Zhang, Yizhang He, Ying Zhang, Xuemin Lin, **Motif Counting in Complex Networks: A Comprehensive Survey**, arXiv preprint arXiv:2503.19573, 2025.
 2. Jiadong Xie, Fan Zhang, **Kai Wang\***, Jialu Liu, Xuemin Lin, and Wenjie Zhang. **Influence Minimization via Blocking Strategies**, *INFORMS Journal on Computing (**IJOC**)*, 2025.
 3. Yizhang He, **Kai Wang\***, Wenjie Zhang, Xuemin Lin, and Ying Zhang. **Common Neighborhood Estimation over Bipartite Graphs under Local Differential Privacy**, *ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, to appear, 2025.
 4. Yizhang He, **Kai Wang\***, Wenjie Zhang, Xuemin Lin, Ying Zhang, and Wei Ni. **Robust Privacy-Preserving Triangle Counting under Edge Local Differential Privacy**, *ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, to appear, 2025.
