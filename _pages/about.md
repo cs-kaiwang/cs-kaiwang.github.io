@@ -126,7 +126,7 @@ Teaching
 
 Selected Awards
 ======
-- 2025 Outstanding PC Member @ ICDE 2025
+- Outstanding PC Member @ ICDE 2025
 - 2022 VLDB Service Award (For outstanding service to the VLDB 2022 Conference Organization) @ VLDB 2022
 - [VLDB Endowment Grants](http://vldb.org/2021/?info-travel-support) @ VLDB 2021
 - CSE Foundation Fellowship @ UNSW, 2021
