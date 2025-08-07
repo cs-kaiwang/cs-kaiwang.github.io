@@ -12,7 +12,7 @@ Kai Wang is currently an associate professor at the Department of Data and Busin
 
 His research interests lie in big data analytics, especially for the graph/network and spatial data.  Link to [Google Scholar](https://scholar.google.com/citations?user=G4DiwTIAAAAJ&hl=en). Email address: cskaelwang@gmail.com
 
-*Kai Wang serves as a PhD advisor, with scholarships available for master's and PhD students. If you are interested in pursuing a Master's or PhD degree in big data analytics, please feel free to contact me!*
+*Kai Wang serves as a PhD advisor, with scholarships available for master's and PhD students. If you are interested in pursuing a Master's or PhD degree in big data analytics, feel free to contact me!*
 
 <!--I have close cooperation with many top-tier IT companies such as Alibaba DAMO Academy. For undergraduate students, please feel free to contact me via email if you are interested in big-data-related research, especially for those who want to participate in an enterprise internship or pursue a higher-level degree.-->
 
