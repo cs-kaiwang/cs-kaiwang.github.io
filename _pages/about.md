@@ -19,7 +19,7 @@ His research interests lie in big data analytics, especially for the graph/netwo
 Selected Publications and Preprints (* indicates corresponding author)
 ======
 1. Haozhe Yin, **Kai Wang**, Wenjie Zhang, Yizhang He, Ying Zhang, Xuemin Lin. **Motif Counting in Complex Networks: A Comprehensive Survey**, arXiv preprint arXiv:2503.19573, 2025.
-2. Mengshi Chen, Yuxiang Sun, Tengchao Li, Jianwei Wang, Kai Wang, Xuemin Lin, Ying Zhang, Wenjie Zhang. Empowering Tabular Data Preparation with Language Models: Why and How?, 	arXiv preprint arXiv:2508.01556, 2025.
+2. Mengshi Chen, Yuxiang Sun, Tengchao Li, Jianwei Wang, Kai Wang, Xuemin Lin, Ying Zhang, Wenjie Zhang. **Empowering Tabular Data Preparation with Language Models: Why and How?**, 	arXiv preprint arXiv:2508.01556, 2025.
 3. Jianwei Wang, **Kai Wang\***, **Ying Zhang\***, Wenjie Zhang, Xiwei Xu, and Xuemin Lin. **On LLM-Enhanced Mixed-Type Data Imputation with High-Order Message Passing.**, *International Conference on Very Large Data Bases (**VLDB**)*, to appear, 2025.
 4. Shunyang Li, **Kai Wang\***, Wenjie Zhang, Xuemin Lin, and Yizhang He. **Efficient Bitruss Decomposition on GPU**, *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2025.
 5. Jiadong Xie, Fan Zhang, **Kai Wang\***, Jialu Liu, Xuemin Lin, and Wenjie Zhang. **Influence Minimization via Blocking Strategies**, *INFORMS Journal on Computing (**IJOC**)*, 2025.
