@@ -18,7 +18,7 @@ His research interests lie in big data analytics, especially for the graph/netwo
 
 Selected Publications and Preprints (* indicates corresponding author)
 ======
-1. Jingye Zhao, Jianan Shen, Jianwei Wang, Tianyuan Zhou, Ruijia Wu, Kai Wang, Xuemin Lin. **Account Risk Detection in Large-Scale Financial Graphs with Auxiliary Asset Prediction**, *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2026.
+1. Jingye Zhao, Jianan Shen, Jianwei Wang, Tianyuan Zhou, Ruijia Wu, **Kai Wang**, Xuemin Lin. **Account Risk Detection in Large-Scale Financial Graphs with Auxiliary Asset Prediction**, *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2026.
 2. Jiawei Zhou, Ruicheng Zhu, Mengshi Chen, Jianwei Wang*, and **Kai Wang**. **TrustResearcher: Automating Knowledge-Grounded and Transparent Research Ideation with Multi-Agent Collaboration**, The Web Conference (Demo), to appear, 2026.
 3. Yitong Song, Pengcheng Zhang, Chao Gao, Bin Yao, **Kai Wang**, Zongyuan Wu, and Lin Qu. **TRIM: Accelerating High-Dimensional Vector Similarity Search with Enhanced Triangle-Inequality-Based Pruning**, *ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, to appear, 2026.
 4. Xuliang Zhu, Xin Huang, **Kai Wang**, Jianliang Xu, and Xuemin Lin, **From Global to Query-Dependent: Summarization of Large Hierarchical DAGs**, *ACM Transactions on Database Systems (**TODS**)*, to appear, 2025.
