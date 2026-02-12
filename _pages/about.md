@@ -19,7 +19,7 @@ His research interests lie in big data analytics, especially for the graph/netwo
 Selected Publications and Preprints (* indicates corresponding author)
 ======
 1. Yitong Song, Pengcheng Zhang, Chao Gao, Bin Yao, **Kai Wang**, Zongyuan Wu, and Lin Qu. **TRIM: Accelerating High-Dimensional Vector Similarity Search with Enhanced Triangle-Inequality-Based Pruning**, *ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, to appear, 2026.
-2. Jiawei Zhou, Ruicheng Zhu, Mengshi Chen, Jianwei Wang, and **Kai Wang**. **TrustResearcher: Automating Knowledge-Grounded and Transparent Research Ideation with Multi-Agent Collaboration**, arXiv preprint arXiv:2510.20844, 2025.
+2. Jiawei Zhou, Ruicheng Zhu, Mengshi Chen, Jianwei Wang*, and **Kai Wang**. **TrustResearcher: Automating Knowledge-Grounded and Transparent Research Ideation with Multi-Agent Collaboration**, The Web Conference (Demo), to appear, 2026.
 3. Xuliang Zhu, Xin Huang, **Kai Wang**, Jianliang Xu, and Xuemin Lin, **From Global to Query-Dependent: Summarization of Large Hierarchical DAGs**, *ACM Transactions on Database Systems (**TODS**)*, to appear, 2025.
 4. Mengshi Chen, Yuxiang Sun, Tengchao Li, Jianwei Wang, **Kai Wang**, Xuemin Lin, Ying Zhang, and Wenjie Zhang. **Empowering Tabular Data Preparation with Language Models: Why and How?**, 	arXiv preprint arXiv:2508.01556, 2025.
 5. Haozhe Yin, **Kai Wang**, Wenjie Zhang, Yizhang He, Ying Zhang, and Xuemin Lin. **Motif Counting in Complex Networks: A Comprehensive Survey**, arXiv preprint arXiv:2503.19573, 2025.
