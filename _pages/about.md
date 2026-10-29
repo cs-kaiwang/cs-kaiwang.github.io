@@ -197,7 +197,7 @@ Talks
 - **Towards Efficient Community Search and Reachability Query on Bipartite Graphs**, Hunan University, 2021.
 - **Cohesive Structure based Bipartite Network Analytics**, Peking University, 2021.
 
-## Books
+Books
 ======
 - Yixiang Fang, **Kai Wang**, Xuemin Lin, and Wenjie Zhang. **[Cohesive Subgraph Search Over Large Heterogeneous Information Networks](https://doi.org/10.1007/978-3-030-97568-5)**. *SpringerBriefs in Computer Science*, Springer, 2022. eBook ISBN: 978-3-030-97568-5.
 
